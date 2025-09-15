@@ -52,4 +52,9 @@ ul {
 
 footer {
     margin: 10px;
+    background: #333;
+    text-align: center;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: .9rem;
 }
