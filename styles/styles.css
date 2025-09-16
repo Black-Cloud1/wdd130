@@ -1,5 +1,5 @@
 nav {
-    background: 1px rgb(49, 128, 207);
+    background: rgb(49, 128, 207);
     padding: 10px;
 }
 
@@ -46,6 +46,6 @@ aside img {
 
 footer {
     margin-top: 1em;
-    border-top: 1px solid #000;
+    border-top: 1px solid;
     text-align: center;
 }
